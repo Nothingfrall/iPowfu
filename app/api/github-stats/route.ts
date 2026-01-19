@@ -94,7 +94,7 @@ export async function GET() {
       },
       body: JSON.stringify({
         query: STATS_QUERY,
-        variables: { username: "YoruAkio" },
+        variables: { username: "iPowfu" },
       }),
     });
 
